@@ -1,0 +1,2 @@
+# EKONOMETRIA
+Projekty ekonometryczne.
